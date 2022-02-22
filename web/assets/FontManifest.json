@@ -1,0 +1,34 @@
+[
+  {
+    "family" : "Bold",
+    "fonts" : [
+      {
+        "assets" : "fonts/Roboto-Bold.ttf"
+      }
+    ]
+  },
+  {
+    "family" : "Light",
+    "fonts" : [
+      {
+        "assets" : "fonts/Roboto-Light.ttf"
+      }
+    ]
+  },
+  {
+    "family" : "Regular",
+    "fonts" : [
+      {
+        "assets" : "fonts/Roboto-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family" : "Medium",
+    "fonts" : [
+      {
+        "assets" : "fonts/Roboto-Medium.ttf"
+      }
+    ]
+  }
+]
