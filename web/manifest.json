@@ -1,6 +1,6 @@
 {
-    "name": "Spooky Puzzle",
-    "short_name": "Spooky Puzzle",
+    "name": "spookypuzzle",
+    "short_name": "spookypuzzle",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

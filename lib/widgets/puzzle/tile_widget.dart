@@ -47,16 +47,7 @@ class TileWidget extends StatelessWidget {
                       rect: tileData.imageRect,
 
                     ),
-//                    child: ImageFiltered(
-//                      imageFilter: tileData.initOffset == tileData.offset
-//                          ? ImageFilter.blur()
-//                          : ImageFilter.blur(sigmaX: 1, sigmaY: 1),
-////                          : ImageFilter.blur(sigmaX: max(0.001, 1), sigmaY: max(0.001, 1)),
-//                      child: PartImagePainter(
-//                        imageProvider: imageProvider!,
-//                        rect: tileData.imageRect,
-//                      ),
-//                    ),
+
                   ),
                 ),
               ),

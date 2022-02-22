@@ -47,9 +47,9 @@ class _MainPageState extends State<MainPage> {
 
   @override
   void initState() {
-      lvlOnePuzzleImage = Image.asset("ghost_number_one.gif");
-      lvlTwoPuzzleImage = Image.asset("ghost_number_two.gif");
-      lvlThreePuzzleImage = Image.asset("ghost_number_three.gif");
+      lvlOnePuzzleImage = Image.asset("assets/ghost_number_one.gif");
+      lvlTwoPuzzleImage = Image.asset("assets/ghost_number_two.gif");
+      lvlThreePuzzleImage = Image.asset("assets/ghost_number_three.gif");
       currentLevel = 1;
       showsOverlay = true;
       super.initState();
@@ -71,6 +71,7 @@ class _MainPageState extends State<MainPage> {
 
     Size size = MediaQuery.of(context).size;
     return Scaffold(
+      backgroundColor: const Color(0xFF142343),
       body: Stack(
         children: [
           ///Background
@@ -78,7 +79,7 @@ class _MainPageState extends State<MainPage> {
             width: size.width,
             height: size.height,
             child: const RiveAnimation.asset(
-              'backgroundspooky.riv',
+              'assets/backgroundspooky.riv',
               fit: BoxFit.cover,
             ),
           ),
