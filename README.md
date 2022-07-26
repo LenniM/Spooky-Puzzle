@@ -6,6 +6,8 @@ Try it out yourself: [Spooky Puzzle Website](https://lennim.github.io/spooky-puz
 
 Inspired by https://spooky.fi/
 
+Devpost: https://devpost.com/software/spooky-puzzle
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
