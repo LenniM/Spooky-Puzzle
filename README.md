@@ -4,6 +4,8 @@ A creative puzzle - by Lenni Mikuszewski
 
 Try it out yourself: [Spooky Puzzle Website](https://lennim.github.io/spooky-puzzle/)
 
+Inspired by https://spooky.fi/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
